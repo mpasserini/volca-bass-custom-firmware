@@ -7,10 +7,16 @@ As of the latest release of the Volca Firmware from Korg, version 1.02, there ar
 The firmware implements the following features:
 * Correct velocities are emitted on MIDI out notes, while the the old firmware played all velocities at 127. At the moment it's possible to record velocites only via MIDI input, not with the internal ribbon keypad.
 * Legatos/slides are played correctly for every note on MIDI out. The old firmware played legatos only when the previous note has the same pitch of the current one.
+* I called this firmware version is 2.01. It's built on top of Korg's 1.02 version. If you install 2.01 you will be able to downgrade to Korg's official version.
+### Installation
+To install this firmware follow the standard procedure from Korg.
+### Download
+Download version 2.01 here:
+* [Volca_Bass_0201.wav](Volca_Bass_0201.wav)
 # Disclaimer
-I don't take any responsibilities for possible damage caused by installing the firmware I provide on this page. Use at your own risk.
+I don't take any responsibilities for possible damage caused by installing the firmware I provide on this page. Use at your own risk, but feel free to contact me if you face any issue and I can try to help you.
 # Credits
 Many thanks to:
-* Tatsuya Takahashi and Korg for developing great products!
-* Emil for releasing the firmware encoding/decoding tools at https://uglyduck.vajn.icu/ep/archive/2018/01/ 
-* Pajen for giving me hints to begin with and this thread about Volca firmware hacking https://www.gearslutz.com/board/electronic-music-instruments-and-electronic-music-production/1232112-volca-sample-firmware-hack.html?s=9dd803db3f00c353b81f8eccea4ead0a 
+* [Tatsuya Takahashi](https://www.tatsuyatakahashi.com/) and [Korg](https://www.korg.com) for developing great products!
+* Emil for releasing the firmware encoding/decoding tools at [https://uglyduck.vajn.icu/ep/archive/2018/01/](his webpage).
+* Pajen for giving me hints to begin with and [this thread](https://www.gearslutz.com/board/electronic-music-instruments-and-electronic-music-production/1232112-volca-sample-firmware-hack.html?s=9dd803db3f00c353b81f8eccea4ead0a) about Volca firmware hacking.
