@@ -1,4 +1,8 @@
 theme: jekyll-theme-slate
+title: Volca Bass Custom Firmware
+description: Volca Bass Custom Firmware
+url: https://github.com/mpasserini/volca-bass-custom-firmware
+author: mpasserini
 plugins:
   - jekyll-seo-tag
 google_analytics: UA-154875503-1
