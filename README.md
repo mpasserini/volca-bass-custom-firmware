@@ -15,7 +15,7 @@ Download version 2.01 here:
 * [Volca_Bass_0201.wav](Volca_Bass_0201.wav?raw=true)
 # Disclaimer
 I don't take any responsibilities for possible damage caused by installing the firmware I provide on this page. Use at your own risk, but feel free to contact me if you face any issue and I will try to help you. I leave credits and copyright of the original firmware to Korg, my firmware was released for improving the interoperability of the Volca Bass, it's for the good of the user community and it does not bring me any profit.
-# Credits
+# Acknowledgements
 Many thanks to:
 * [Tatsuya Takahashi](https://www.tatsuyatakahashi.com/) and [Korg](https://www.korg.com) for developing great products!
 * Emil for releasing the firmware encoding/decoding tools at [his webpage](https://uglyduck.vajn.icu/ep/archive/2018/01/).
