@@ -5,9 +5,9 @@ This page contains firmware modifications I wrote for the Korg Volca Bass synthe
 As of the latest release of the Volca firmware from Korg ([version 1.02](https://www.korg.com/us/support/download/software/0/140/4365/)), there are a few bugs in the official code which limit the capabilities of the instrument when modded for MIDI out. The Korg firmware plays all notes at velocity 127 and does not handle slides correctly. My custom firmware fixes these issues and allows it to better control external devices.
 ### New features
 The firmware implements the following improvements on top of the official 1.02 firmware:
-* With 2.01 correct velocities are emitted on MIDI out notes, while with 1.02 all velocities were played at 127. At the moment it's possible to record velocites on the step sequencer only via external MIDI input.
-* In 2.01 legatos/slides are played correctly for every note on MIDI out, when the step slide is set on the sequencer. The 1.02 firmware played legatos only when the previous note was the same pitch of the current one, staccatos in all other cases.
-* I called this firmware version is 2.01 to differentiate from Korg's release. Future versions of this firmware will be called 2.02, 2.03 etc. If you install 2.01 you will be able to downgrade to Korg's official version.
+* **With 2.01 correct velocities are emitted on MIDI out notes**, while with 1.02 all velocities were played at 127. At the moment it's possible to record velocites on the step sequencer only via external MIDI input.
+* **In 2.01 legatos/slides are played correctly for every note on MIDI out**, when the step slide is set on the sequencer. The 1.02 firmware played legatos only when the previous note was the same pitch of the current one, staccatos in all other cases.
+* I called this firmware version is 2.01 to differentiate from Korg's release. Future versions of this firmware will be called 2.02, 2.03 etc. **If you install 2.01 you will be able to downgrade to Korg's official version.**
 ### Installation
 To install this firmware please follow the standard procedure from Korg, documented on the [official manual](https://www.korg.com/us/support/download/product/0/140/).
 ### Download
