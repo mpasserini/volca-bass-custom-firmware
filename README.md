@@ -1,5 +1,8 @@
 # Volca Bass Custom Firmware
 This page contains firmware modifications I wrote for the Korg Volca Bass synthesizer.
+
+# Disclaimer
+This repository is currently unmaintained. I don't own a Volca bass anymore. I don't take any responsibilities for possible damage caused by installing the firmware I provide on this page. Use at your own risk, but feel free to contact me if you face any issue and I can try to help you. I leave credits and copyright of the original firmware to Korg, my firmware was released for improving the interoperability of the Volca Bass, it's for the good of the user community and it does not bring me any profit.
 ## Version 2.01
 ### Description
 As of the latest release of the Volca firmware from Korg ([version 1.02](https://www.korg.com/us/support/download/software/0/140/4365/)), there are a few bugs in the official code which limit the capabilities of the instrument when modded for MIDI out. The Korg firmware plays all notes at velocity 127 and does not handle slides correctly. My custom firmware fixes these issues and allows it to better control external devices.
@@ -13,8 +16,6 @@ To install this firmware please follow the standard procedure from Korg, documen
 ### Download
 Download version 2.01 here:
 * [Volca_Bass_0201.wav](Volca_Bass_0201.wav?raw=true)
-# Disclaimer
-I don't take any responsibilities for possible damage caused by installing the firmware I provide on this page. Use at your own risk, but feel free to contact me if you face any issue and I will try to help you. I leave credits and copyright of the original firmware to Korg, my firmware was released for improving the interoperability of the Volca Bass, it's for the good of the user community and it does not bring me any profit.
 # Acknowledgements
 Many thanks to:
 * [Tatsuya Takahashi](https://www.tatsuyatakahashi.com/) and [Korg](https://www.korg.com) for developing great products!
