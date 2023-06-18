@@ -5,4 +5,8 @@ url: https://github.com/mpasserini/volca-bass-custom-firmware
 author: mpasserini
 plugins:
   - jekyll-seo-tag
-google_analytics: G-MMPJXES1N0
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-MMPJXES1N0"
+    anonymize_ip         : # true, false (default)
